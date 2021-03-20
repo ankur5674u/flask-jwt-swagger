@@ -9,7 +9,7 @@ flask-restful-swagger==0.20.1
 flask-restful-swagger-3==0.1
 importlib-metadata==1.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 jsonschema==3.2.0
 limits==1.5.1
 MarkupSafe==1.1.1
